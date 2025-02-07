@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿public class RechercheVille
+{
+    private List<String> _villes;
+
+    public List<String> Rechercher(String mot)
+    {
+        throw new NotImplementedException();
+    }
+}
